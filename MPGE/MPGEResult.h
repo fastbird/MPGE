@@ -10,5 +10,6 @@ namespace fb
 		GeneralError = -3,
 		PlatformError = -4,
 		ModuleEntryPointNotFound = -5,
+		InvalidParameter = -6,
 	} ;
 }
